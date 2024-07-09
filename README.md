@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-<img align="right" alt="coding-img" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align="right" alt="coding-img" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashish_jha_73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashish_jha_73" height="30" width="40" /></a>
